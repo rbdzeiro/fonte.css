@@ -1,0 +1,26 @@
+
+@font-face {
+font-family:"mexica";
+src:url("http://static.tumblr.com/fvgcm8m/QSDqu8gf0/mexica_black_sc-webfont.woff2") format("woff2"),
+url("http://static.tumblr.com/fvgcm8m/m3xqu8gei/mexica_black_sc-webfont.woff") format("woff"),
+url("http://static.tumblr.com/fvgcm8m/8inqu8ge0/mexica_black_sc-webfont.eot") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"mexica";
+src:url("http://static.tumblr.com/fvgcm8m/QSDqu8gf0/mexica_black_sc-webfont.woff2") format("woff2"),
+url("http://static.tumblr.com/fvgcm8m/m3xqu8gei/mexica_black_sc-webfont.woff") format("woff"),
+url("http://static.tumblr.com/fvgcm8m/8inqu8ge0/mexica_black_sc-webfont.eot") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"mexica";
+src:url("http://static.tumblr.com/fvgcm8m/QSDqu8gf0/mexica_black_sc-webfont.woff2") format("woff2"),
+url("http://static.tumblr.com/fvgcm8m/m3xqu8gei/mexica_black_sc-webfont.woff") format("woff"),
+url("http://static.tumblr.com/fvgcm8m/8inqu8ge0/mexica_black_sc-webfont.eot") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;
+}
+
+.tk-mexica { font-family: "mexica",sans-serif; }
