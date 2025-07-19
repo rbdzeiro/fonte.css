@@ -1,26 +1,11 @@
-
 @font-face {
 font-family:"mexica";
-src:url("http://static.tumblr.com/fvgcm8m/QSDqu8gf0/mexica_black_sc-webfont.woff2") format("woff2"),
-url("http://static.tumblr.com/fvgcm8m/m3xqu8gei/mexica_black_sc-webfont.woff") format("woff"),
-url("http://static.tumblr.com/fvgcm8m/8inqu8ge0/mexica_black_sc-webfont.eot") format("opentype");
-font-display:auto;font-style:normal;font-weight:700;
+src:url("https://github.com/rbdzeiro/fonte.css/blob/main/mex.woff2") format("woff2"),
+url("https://github.com/rbdzeiro/fonte.css/blob/main/mex.woff") format("woff"),
+url("https://github.com/rbdzeiro/fonte.css/blob/main/mex.eot") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;
 }
 
-@font-face {
-font-family:"mexica";
-src:url("http://static.tumblr.com/fvgcm8m/QSDqu8gf0/mexica_black_sc-webfont.woff2") format("woff2"),
-url("http://static.tumblr.com/fvgcm8m/m3xqu8gei/mexica_black_sc-webfont.woff") format("woff"),
-url("http://static.tumblr.com/fvgcm8m/8inqu8ge0/mexica_black_sc-webfont.eot") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;
+.tk-mexica {
+  font-family: "mexica", "roboto";
 }
-
-@font-face {
-font-family:"mexica";
-src:url("http://static.tumblr.com/fvgcm8m/QSDqu8gf0/mexica_black_sc-webfont.woff2") format("woff2"),
-url("http://static.tumblr.com/fvgcm8m/m3xqu8gei/mexica_black_sc-webfont.woff") format("woff"),
-url("http://static.tumblr.com/fvgcm8m/8inqu8ge0/mexica_black_sc-webfont.eot") format("opentype");
-font-display:auto;font-style:normal;font-weight:200;
-}
-
-.tk-mexica { font-family: "mexica" }
